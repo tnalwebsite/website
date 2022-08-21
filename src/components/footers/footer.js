@@ -209,7 +209,7 @@ export default function Footer() {
               <ul>
                 <li>
                   <FlexContact>
-                    <a href="tel: ">{Info.tel1}</a>
+                    <a href="tel: 587-847-3446">{Info.tel1}</a>
                   </FlexContact>
                 </li>
                 <li>
@@ -224,11 +224,9 @@ export default function Footer() {
                 </li>
               </ul>
               <ul>
-                <li>{Info.street1}</li>
-                <li>{Info.city1}</li>
-                <li>Canada</li>
+                <li>Based in Canada</li>
               </ul>
-              <Socials>
+              {/* <Socials>
                 <div>
                   <a target="_blank" href="">
                     <img src={Facebook} alt="" />
@@ -237,7 +235,7 @@ export default function Footer() {
                     <img src={Linkedin} alt="" />
                   </a>
                 </div>
-              </Socials>
+              </Socials> */}
             </FlexItem>
             <FlexItem>
               <p className="heading">links</p>
@@ -287,12 +285,18 @@ export default function Footer() {
               <li>{Info.name}</li>
               <li>All Rights Reserved</li>
               <li>
-                <a target="_blank" href="">
+                <a
+                  target="_blank"
+                  href="https://www.truenorthautoloans.ca/terms-of-use"
+                >
                   Terms of use
                 </a>
               </li>
               <li>
-                <a target="_blank" href="">
+                <a
+                  target="_blank"
+                  href="https://www.truenorthautoloans.ca/privacy-policy"
+                >
                   Privacy Policy
                 </a>
               </li>
@@ -304,7 +308,7 @@ export default function Footer() {
           <Container>
             <div>
               <p>website by: </p>
-              <a target="blank" href="https://www.aarontonner.com">
+              <a target="_blank" href="https://www.aarontonner.com">
                 <img src={AaronTonnerWebSolutionsLogo} alt="" />
               </a>
             </div>
