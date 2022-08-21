@@ -115,11 +115,11 @@ export default function PrivacyPolicy() {
                       visit our website{" "}
                       <bdt className="question">
                         <a
-                          href="http://www.truenorthautoloans.ca"
+                          href="http://www.truenorthautoloans.com"
                           target="_blank"
                           data-custom-class="link"
                         >
-                          http://www.truenorthautoloans.ca
+                          http://www.truenorthautoloans.com
                         </a>
                       </bdt>{" "}
                       (the "<strong>Website</strong>"),{" "}
@@ -8575,11 +8575,11 @@ export default function PrivacyPolicy() {
                                             visit:{" "}
                                             <bdt className="question">
                                               <a
-                                                href="http://www.truenorthautoloans.ca"
+                                                href="http://www.truenorthautoloans.com"
                                                 target="_blank"
                                                 data-custom-class="link"
                                               >
-                                                http://www.truenorthautoloans.ca
+                                                http://www.truenorthautoloans.com
                                               </a>
                                             </bdt>
                                             <bdt className="else-block" />

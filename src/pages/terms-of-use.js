@@ -196,11 +196,11 @@ export default function TermsOfUse() {
                         data-type="question"
                       >
                         <a
-                          href="http://www.truenorthautoloans.ca"
+                          href="http://www.truenorthautoloans.com"
                           target="_blank"
                           data-custom-class="link"
                         >
-                          http://www.truenorthautoloans.ca
+                          http://www.truenorthautoloans.com
                         </a>
                       </bdt>{" "}
                       website as well as any other media form, media channel,
@@ -4378,11 +4378,11 @@ export default function TermsOfUse() {
                             data-type="question"
                           >
                             <a
-                              href="http://www.truenorthautoloans.ca/privacy-policy"
+                              href="http://www.truenorthautoloans.com/privacy-policy"
                               target="_blank"
                               data-custom-class="link"
                             >
-                              http://www.truenorthautoloans.ca/privacy-policy
+                              http://www.truenorthautoloans.com/privacy-policy
                             </a>
                           </bdt>
                         </b>
