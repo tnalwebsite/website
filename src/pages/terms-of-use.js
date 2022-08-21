@@ -181,7 +181,7 @@ export default function TermsOfUse() {
                         data-id="4ab94aa9-19d1-61e0-711e-42c7d186232b"
                         data-type="question"
                       >
-                        Pacha Mamma Massage & Sound Therapy
+                        True North Auto Loans
                       </bdt>
                       <bdt className="block-component" /> ("
                       <bdt className="block-component" />
@@ -4818,11 +4818,8 @@ export default function TermsOfUse() {
                         </span>
                       </span>
                     </span>
-                    .{" "}
-                    <bdt className="question">
-                      Pacha Mamma Massage & Sound Therapy
-                    </bdt>{" "}
-                    and yourself irrevocably consent that the courts of{" "}
+                    . <bdt className="question">True North Auto Loans</bdt> and
+                    yourself irrevocably consent that the courts of{" "}
                     <span
                       style={{
                         fontSize: "11pt",
@@ -5897,7 +5894,7 @@ export default function TermsOfUse() {
                       data-id="8a6919c4-2010-e7d6-2305-d74dfb08909d"
                       data-type="question"
                     >
-                      <strong>Pacha Mamma Massage & Sound Therapy</strong>
+                      <strong>True North Auto Loans</strong>
                     </bdt>
                   </span>
                   <span style={{ color: "rgb(89, 89, 89)" }}>
@@ -5916,7 +5913,7 @@ export default function TermsOfUse() {
                   <span style={{ color: "rgb(89, 89, 89)" }}>
                     <strong>
                       <span style={{ fontSize: "15px" }}>
-                        <bdt className="question">112196 266 Ave W</bdt>
+                        <bdt className="question"></bdt>
                         <bdt className="statement-end-if-in-editor" />
                         <bdt className="block-component" />
                       </span>
@@ -5946,7 +5943,7 @@ export default function TermsOfUse() {
                   <span style={{ color: "rgb(89, 89, 89)" }}>
                     <strong>
                       <span style={{ fontSize: "15px" }}>
-                        <bdt className="question">T1S 3B4</bdt>
+                        <bdt className="question"></bdt>
                         <bdt className="statement-end-if-in-editor" />{" "}
                         <bdt className="block-component" />
                         <bdt className="block-component" />

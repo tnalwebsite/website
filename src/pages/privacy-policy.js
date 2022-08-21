@@ -6234,8 +6234,7 @@ export default function PrivacyPolicy() {
                                         >
                                           <span data-custom-class="body_text">
                                             <bdt className="question">
-                                              Pacha Mamma Massage & Sound
-                                              Therapy
+                                              True North Auto Loans
                                             </bdt>
                                           </span>
                                           <span data-custom-class="body_text">
@@ -6255,8 +6254,7 @@ export default function PrivacyPolicy() {
                                               >
                                                 <span data-custom-class="body_text">
                                                   <bdt className="question">
-                                                    Pacha Mamma Massage & Sound
-                                                    Therapy
+                                                    True North Auto Loans
                                                   </bdt>
                                                 </span>
                                               </span>

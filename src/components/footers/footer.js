@@ -287,7 +287,7 @@ export default function Footer() {
               <li>
                 <a
                   target="_blank"
-                  href="https://www.truenorthautoloans.ca/terms-of-use"
+                  href="https://www.truenorthautoloans.com/terms-of-use"
                 >
                   Terms of use
                 </a>
@@ -295,7 +295,7 @@ export default function Footer() {
               <li>
                 <a
                   target="_blank"
-                  href="https://www.truenorthautoloans.ca/privacy-policy"
+                  href="https://www.truenorthautoloans.com/privacy-policy"
                 >
                   Privacy Policy
                 </a>
