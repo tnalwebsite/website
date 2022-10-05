@@ -53,7 +53,7 @@ export default function Delivery() {
                   doorstep - for free!
                 </h3>
                 <p>
-                  For auto loans Northern Canada, we want to make sure you get
+                  For auto loans in Northern Canada, we want to make sure you get
                   all the essentials you need with your purchase. Let us know
                   what you want to be included in the delivery of your vehicle.
                 </p>

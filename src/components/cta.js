@@ -70,8 +70,7 @@ export default function Cta() {
                   on solutions that will improve your credit while getting you a
                   car loan in Canada. We also have programs offered to those who
                   have had a repossession in the past. Our mission is to get you
-                  driving! We have helped hundreds of customers with a bad
-                  credit car loan Canada guaranteed approval.
+                  driving!
                 </p>
                 {/* <ul>
                   <li>Calgary, AB</li>

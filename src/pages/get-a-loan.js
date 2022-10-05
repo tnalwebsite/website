@@ -77,6 +77,19 @@ const Anchors = styled.div`
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  margin-top: 40px;
+
+  @media screen and (max-width: 37.5em) {
+    flex-direction: column;
+    text-align: center;
+    & > * {
+      width: 100%;
+    }
+
+    & > * + * {
+      margin-left: 0;
+    }
+  }
 
   & > * + * {
     margin-left: 10px;

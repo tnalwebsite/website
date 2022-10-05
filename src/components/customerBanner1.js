@@ -25,7 +25,7 @@ export default function CustomerBanner1() {
           </h1>
           <p>
             We offer gauranteed approval on your good, limited, or bad credit
-            car loans Canada. Our online approval process is simple and easy to
+            for car loans in Canada. Our online approval process is simple and easy to
             use for taking the first step to getting approved for your auto loan
             in Canada!
           </p>

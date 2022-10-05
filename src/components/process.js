@@ -31,7 +31,7 @@ export default function Process() {
                 <p>
                   Stop guessing what your vehicle payments will be. Our partners
                   have financing options for any credit situation to get you a
-                  suitable car loan Canada.
+                  suitable car loan in Canada.
                 </p>
               </div>
             </Flex>

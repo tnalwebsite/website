@@ -64,7 +64,7 @@ export default function Solutions() {
               <p>
                 Are you in a high interest auto loan? We find refinancing
                 options available to you which can get you out of high interest
-                car loans Canada.{" "}
+                car loans.{" "}
               </p>
             </div>
           </Item>
@@ -73,7 +73,7 @@ export default function Solutions() {
               <FaHandHoldingUsd style={IconStyle} />
               <h3 className="bold caps body--large">Negative Equity?</h3>
               <p>
-                We make sure you get the highest value for your Canada auto loan
+                We make sure you get the highest value for your auto loan
                 trade-in. Through our dealer network, we find the highest bidder
                 on your vehicle so you know you’re getting what your vehicle is
                 worth.{" "}
@@ -86,7 +86,7 @@ export default function Solutions() {
               <h3 className="bold caps body--large">Downsizing</h3>
               <p>
                 If you’re looking to lower the cost of driving - we have
-                solutions. We’ll find creative ways to lower your Canada auto
+                solutions. We’ll find creative ways to lower your auto
                 loan payment. Or if you’re looking for a smaller vehicle because
                 your kids moved out - let us find you the right car loan for
                 your situation now!
