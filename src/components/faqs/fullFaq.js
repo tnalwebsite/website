@@ -80,7 +80,7 @@ export default function FeaturedFaq() {
           <div>
             <AccordionItem
               question="How to get a car loan with bad credit canada?"
-              answer="We have lenders that specialize in helping customers with bad or limited credit car loans Canada. We work with them to help you get approved for a vehicle that fits your budget and needs. Starting out in a bad credit car loan will allow you to get driving right away, while building your credit and rewriting your credit history."
+              answer="We have lenders that specialize in helping customers with bad or limited credit car loans. We work with them to help you get approved for a vehicle that fits your budget and needs. Starting out in a bad credit car loan will allow you to get driving right away, while building your credit and rewriting your credit history."
             />
             <AccordionItem
               question="What is the minimum credit score for a car loan in Canada?"
