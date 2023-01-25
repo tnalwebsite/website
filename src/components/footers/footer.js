@@ -209,7 +209,7 @@ export default function Footer() {
               <ul>
                 <li>
                   <FlexContact>
-                    <a href="tel: 587-847-3446">{Info.tel1}</a>
+                    <a href="tel: 587-899-3553">{Info.tel1}</a>
                   </FlexContact>
                 </li>
                 <li>
@@ -281,7 +281,7 @@ export default function Footer() {
           <hr />
           <Copyright>
             <ul>
-              <li>Copyright&#169; 2022</li>
+              <li>Copyright&#169; 2023</li>
               <li>{Info.name}</li>
               <li>All Rights Reserved</li>
               <li>
