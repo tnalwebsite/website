@@ -37,7 +37,7 @@ export default function QuickApproval() {
             name="quickapproval"
             className="spacing"
             method="POST"
-            data-netlify="true"
+            netlify
             netlify-honeypot="bot-field"
           >
             <input type="hidden" name="form-name" value="contact" />
