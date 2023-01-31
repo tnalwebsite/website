@@ -286,7 +286,7 @@ export default function GetALoan() {
                       </Label>
                       <input
                         type="radio"
-                        name="vehicleChoice1"
+                        name="vehicleChoice"
                         id="car"
                         value="car"
                         defaultChecked
@@ -303,7 +303,7 @@ export default function GetALoan() {
                       </Label>
                       <input
                         type="radio"
-                        name="vehicleChoice2"
+                        name="vehicleChoice"
                         id="suv"
                         value="suv"
                       />
@@ -319,7 +319,7 @@ export default function GetALoan() {
                       </Label>
                       <input
                         type="radio"
-                        name="vehicleChoice3"
+                        name="vehicleChoice"
                         id="truck"
                         value="truck"
                       />
