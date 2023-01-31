@@ -40,7 +40,7 @@ export default function QuickApproval() {
             netlify
             netlify-honeypot="bot-field"
           >
-            <input type="hidden" name="form-name" value="contact" />
+            <input type="hidden" name="form-name" value="quickapproval" />
             <p hidden>
               <label>
                 Don’t fill this out: <input name="bot-field" />
