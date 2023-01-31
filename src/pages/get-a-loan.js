@@ -269,7 +269,7 @@ export default function GetALoan() {
                     what vehicle do you want?
                   </QuestionTitle>
                   <VehicleChoice>
-                    <input type="hidden" name="fullloan" value="contact" />
+                    <input type="hidden" name="form-name" value="contact" />
                     <p hidden>
                       <label>
                         Don’t fill this out: <input name="bot-field" />
@@ -286,7 +286,7 @@ export default function GetALoan() {
                       </Label>
                       <input
                         type="radio"
-                        name="vehicleChoice"
+                        name="vehicleChoice1"
                         id="car"
                         value="car"
                         defaultChecked
@@ -303,7 +303,7 @@ export default function GetALoan() {
                       </Label>
                       <input
                         type="radio"
-                        name="vehicleChoice"
+                        name="vehicleChoice2"
                         id="suv"
                         value="suv"
                       />
@@ -319,7 +319,7 @@ export default function GetALoan() {
                       </Label>
                       <input
                         type="radio"
-                        name="vehicleChoice"
+                        name="vehicleChoice3"
                         id="truck"
                         value="truck"
                       />
@@ -400,7 +400,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="employmentStatus"
+                          name="employmentStatus1"
                           id="full-time"
                           value="full-time"
                           defaultChecked
@@ -410,7 +410,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="employmentStatus"
+                          name="employmentStatus2"
                           id="part-time"
                           value="part-time"
                         />
@@ -419,7 +419,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="employmentStatus"
+                          name="employmentStatus3"
                           id="self-employed"
                           value="self-employed"
                         />
@@ -428,7 +428,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="employmentStatus"
+                          name="employmentStatus4"
                           id="pension"
                           value="pension"
                         />
@@ -550,7 +550,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="rentOrOwn"
+                          name="rentOrOwn1"
                           id="rent"
                           value="rent"
                           defaultChecked
@@ -560,7 +560,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="rentOrOwn"
+                          name="rentOrOwn2"
                           id="own"
                           value="own"
                         />
