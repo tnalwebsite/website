@@ -400,7 +400,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="employmentStatus1"
+                          name="employmentStatus"
                           id="full-time"
                           value="full-time"
                           defaultChecked
@@ -410,7 +410,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="employmentStatus2"
+                          name="employmentStatus"
                           id="part-time"
                           value="part-time"
                         />
@@ -419,7 +419,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="employmentStatus3"
+                          name="employmentStatus"
                           id="self-employed"
                           value="self-employed"
                         />
@@ -428,7 +428,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="employmentStatus4"
+                          name="employmentStatus"
                           id="pension"
                           value="pension"
                         />
@@ -550,7 +550,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="rentOrOwn1"
+                          name="rentOrOwn"
                           id="rent"
                           value="rent"
                           defaultChecked
@@ -560,7 +560,7 @@ export default function GetALoan() {
                       <div className="spacing-sm">
                         <input
                           type="radio"
-                          name="rentOrOwn2"
+                          name="rentOrOwn"
                           id="own"
                           value="own"
                         />
