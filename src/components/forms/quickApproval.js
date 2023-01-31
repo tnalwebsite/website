@@ -40,7 +40,7 @@ export default function QuickApproval() {
             data-netlify="true"
             netlify-honeypot="bot-field"
           >
-            <input type="hidden" name="form-name" value="contact" />
+            <input type="hidden" name="quick-approval" value="contact" />
             <p hidden>
               <label>
                 Don’t fill this out: <input name="bot-field" />
@@ -104,7 +104,7 @@ export default function QuickApproval() {
               <Select name="preferredTimeOfDay" id="preferredTimeOfDay">
                 <option value="morning">Morning</option>
                 <option value="afternoon">Afternoon</option>
-                <option value="evening">evening</option>
+                <option value="evening">Evening</option>
               </Select>
             </div>
             <Submit type="submit" id="submit" value="get approved now" />

@@ -250,7 +250,7 @@ export default function GetALoan() {
             </Link>
           </LogoContainer>
           <form
-            name="full loan form"
+            name="full-loan-form"
             className="spacing-lg"
             method="POST"
             data-netlify="true"
@@ -269,7 +269,11 @@ export default function GetALoan() {
                     what vehicle do you want?
                   </QuestionTitle>
                   <VehicleChoice>
-                    <input type="hidden" name="form-name" value="contact" />
+                    <input
+                      type="hidden"
+                      name="full-loan-form"
+                      value="contact"
+                    />
                     <p hidden>
                       <label>
                         Don’t fill this out: <input name="bot-field" />
